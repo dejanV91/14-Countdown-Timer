@@ -26,7 +26,7 @@ const titleGiveaway= document.querySelector(".titleSection p");
 const timer = document.querySelectorAll(".timer h4");
 const deadline = document.querySelector(".deadline");
 
-const futureDate= new Date(2022,6,8,21,54);
+const futureDate= new Date(2024,6,8,21,54);
 
 const futureYear = futureDate.getFullYear();
 const futureMonth = futureDate.getMonth();
